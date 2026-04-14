@@ -1,0 +1,7 @@
+export const negociations = [
+    { id: "NEG-001", sujet: "Horaires Mathématiques L1", detail: "Créneau 8h-10h Lundi",    promotion: "L1 Info / L1 Cyber", parties: "Étu + Ens",       tour: "3/5", pct: 60,  statut: "En cours",      priorite: "Haute",    activite: "Il y a 2h"    },
+    { id: "NEG-002", sujet: "Salle TP Informatique",     detail: "B204 - Conflit capacité", promotion: "M1 Data",            parties: "Étu + Sal",       tour: "2/5", pct: 40,  statut: "En cours",      priorite: "Moyenne",  activite: "Il y a 30min" },
+    { id: "NEG-003", sujet: "Pause déjeuner M1",         detail: "12h-14h préféré",         promotion: "M1 IA",              parties: "Étu + Adm",       tour: "4/5", pct: 80,  statut: "Accord proche", priorite: "Haute",    activite: "Il y a 5h"    },
+    { id: "NEG-004", sujet: "Cours Physique L2",         detail: "Laboratoire requis",      promotion: "L2 Info",            parties: "Étu + Ens + Sal", tour: "1/5", pct: 20,  statut: "Blocage",       priorite: "Critique", activite: "Il y a 15min" },
+    { id: "NEG-005", sujet: "Horaires Anglais L3",       detail: "Vendredi après-midi",     promotion: "L3 Info",            parties: "Étu + Ens",       tour: "5/5", pct: 100, statut: "Validation",    priorite: "Basse",    activite: "Il y a 1j"    },
+];
