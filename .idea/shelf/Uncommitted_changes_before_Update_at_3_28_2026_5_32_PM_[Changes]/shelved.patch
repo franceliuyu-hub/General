@@ -1,0 +1,90 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"c311d870-a920-415d-9435-9a3b7c8db254\" name=\"Changes\" comment=\"Initial Commit\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/FrontEnd/src/components/ProtectedRoute.jsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/FrontEnd/src/components/ProtectedRoute.jsx\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/FrontEnd/src/components/PublicRoute.jsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/FrontEnd/src/components/PublicRoute.jsx\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/FrontEnd/src/components/Sidebar.jsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/FrontEnd/src/components/Sidebar.jsx\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/FrontEnd/src/components/Topbar.jsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/FrontEnd/src/components/Topbar.jsx\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/FrontEnd/src/context/AuthContext.jsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/FrontEnd/src/context/AuthContext.jsx\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/FrontEnd/src/data/navItems.js\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/FrontEnd/src/data/navItems.js\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/FrontEnd/src/pages/Dashboard.jsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/FrontEnd/src/pages/Dashboard.jsx\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/FrontEnd/src/pages/Login.jsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/FrontEnd/src/pages/Login.jsx\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/FrontEnd/src/pages/NegotiationOngoing.jsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/FrontEnd/src/pages/NegotiationOngoing.jsx\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/FrontEnd/src/pages/Profile.jsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/FrontEnd/src/pages/Profile.jsx\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/FrontEnd/src/pages/Signup.jsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/FrontEnd/src/pages/Signup.jsx\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/FrontEnd/src/router/index.jsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/FrontEnd/src/router/index.jsx\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/FrontEnd/src/styles/statusStyles.jsx\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/FrontEnd/src/styles/statusStyles.jsx\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"ROOT_SYNC\" value=\"SYNC\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;TheJeyB&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/skanderfr20034-droid/Schedular.git&quot;,\r\n    &quot;accountId&quot;: &quot;b43798a8-749c-4219-819a-a1c121697203&quot;\r\n  }\r\n}</component>\r\n  <component name=\"McpProjectServerCommands\">\r\n    <commands />\r\n    <urls />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 0\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"3BXDAmHXClSnzha1TrHHkpirnIZ\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,\r\n    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\r\n    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,\r\n    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/TheJeyB/Downloads/SchedularTransformerV&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,\r\n    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90\" />\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"c311d870-a920-415d-9435-9a3b7c8db254\" name=\"Changes\" comment=\"\" />\r\n      <created>1774626383120</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1774626383120</updated>\r\n      <workItem from=\"1774626387183\" duration=\"5247000\" />\r\n      <workItem from=\"1774699587124\" duration=\"1020000\" />\r\n      <workItem from=\"1774700935240\" duration=\"464000\" />\r\n      <workItem from=\"1774701448188\" duration=\"41000\" />\r\n      <workItem from=\"1774701523513\" duration=\"62000\" />\r\n      <workItem from=\"1774705201020\" duration=\"548000\" />\r\n      <workItem from=\"1774705779495\" duration=\"1221000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Initial Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1774626502644</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1774626502644</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Initial Commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1774699736245</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1774699736245</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Initial Commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Initial Commit\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision d625c7ce04ca9b7986a0c608eef7ea70c0840605)
++++ b/.idea/workspace.xml	(date 1774715404669)
+@@ -4,28 +4,18 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="c311d870-a920-415d-9435-9a3b7c8db254" name="Changes" comment="Initial Commit">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/ProtectedRoute.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/components/ProtectedRoute.jsx" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/PublicRoute.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/components/PublicRoute.jsx" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/Sidebar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/components/Sidebar.jsx" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/components/Topbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/components/Topbar.jsx" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/context/AuthContext.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/context/AuthContext.jsx" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/data/navItems.js" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/data/navItems.js" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/pages/Dashboard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/pages/Dashboard.jsx" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/pages/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/pages/Login.jsx" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/pages/NegotiationOngoing.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/pages/NegotiationOngoing.jsx" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/pages/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/pages/Profile.jsx" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/pages/Signup.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/pages/Signup.jsx" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/router/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/router/index.jsx" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/FrontEnd/src/styles/statusStyles.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/src/styles/statusStyles.jsx" afterDir="false" />
+-    </list>
++    <list default="true" id="c311d870-a920-415d-9435-9a3b7c8db254" name="Changes" comment="adding all functionalities remained forntend" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+   <component name="Git.Settings">
++    <option name="PREVIOUS_COMMIT_AUTHORS">
++      <list>
++        <option value="Iskander Romdhane &lt;skander20034@gmail.com&gt;" />
++      </list>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+     <option name="ROOT_SYNC" value="SYNC" />
+   </component>
+@@ -98,7 +88,7 @@
+       <workItem from="1774701448188" duration="41000" />
+       <workItem from="1774701523513" duration="62000" />
+       <workItem from="1774705201020" duration="548000" />
+-      <workItem from="1774705779495" duration="1221000" />
++      <workItem from="1774705779495" duration="1537000" />
+     </task>
+     <task id="LOCAL-00001" summary="Initial Commit">
+       <option name="closed" value="true" />
+@@ -116,7 +106,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1774699736245</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="adding all functionalities remained forntend">
++      <option name="closed" value="true" />
++      <created>1774715200333</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1774715200333</updated>
++    </task>
++    <task id="LOCAL-00004" summary="adding all functionalities remained forntend">
++      <option name="closed" value="true" />
++      <created>1774715358858</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1774715358858</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -135,6 +141,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Initial Commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
++    <MESSAGE value="initial clean project (frontend + backend + transformer)" />
++    <MESSAGE value="adding all functionalities remained forntend" />
++    <option name="LAST_COMMIT_MESSAGE" value="adding all functionalities remained forntend" />
+   </component>
+ </project>
+\ No newline at end of file

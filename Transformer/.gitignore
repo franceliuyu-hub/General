@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+
+negotiation_report/
+datasets/
+
+trained_model.pth
+training_history.png
+
+# keep current serving weights tracked only when you intentionally want them
+# uncomment if you prefer not to version model weights
+# best_model.pth
